@@ -50,8 +50,16 @@
     <b style="margin-left: 10px">HTML; </b>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" width="15">
     <b style="margin-left: 10px">CSS; </b>
-    <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="15">
-    <b style="margin-left: 10px">Github; </b>
+    <img src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.png" width="25">
+    <b style="margin-left: 10px">MySQL; </b>
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/firebase-1-logo-png-transparent.png" width="15">
+    <b style="margin-left: 10px">Firebase; </b>
+    <img src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-8.png" width="15">
+    <b style="margin-left: 10px">SQL Server; </b>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Oracle_Corporation_logo.svg/2560px-Oracle_Corporation_logo.svg.png" width="25">
+    <b style="margin-left: 10px">Oracle; </b>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" width="15">
+    <b style="margin-left: 10px">MongoDB; </b>
     <img src="https://seeklogo.com/images/J/jira-logo-C71F8C0324-seeklogo.com.png" width="15">
     <b style="margin-left: 10px">Jira; </b>
     <img src="https://brandslogos.com/wp-content/uploads/thumbs/asana-logo-vector.svg" width="15">
