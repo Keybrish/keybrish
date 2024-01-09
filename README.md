@@ -76,7 +76,16 @@
     <b style="margin-left: 10px">Photoshop</b>
 </div>
 
+</br>
+
+## 📊 Estadísticas
+
 ![Estadísticas](https://github-readme-stats.vercel.app/api?username=keybrish&show_icons=true)
+
+</br>
+
+## ✒️ Lenguajes
+
 ![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=keybrish)
 
 
