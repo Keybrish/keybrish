@@ -76,6 +76,10 @@
     <b style="margin-left: 10px">Photoshop</b>
 </div>
 
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=keybrish&show_icons=true)
+![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=keybrish)
+
+
 <!--
 **Keybrish/keybrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
