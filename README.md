@@ -37,99 +37,41 @@
     <b>Python; </b>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="15">
     <b style="margin-left: 10px">JavaScript</b>
-</div>
-
-<div style="display: flex; flex-direction: row;">
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 105px; margin-left: 10px;">
     <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="15">
     <b style="margin-left: 10px">TypeScript</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/java_logo_icon_169577.png" width="15">
     <b style="margin-left: 10px">Java</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25">
     <b style="margin-left: 10px">PHP</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">React</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 120px; margin-left: 10px">
     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">React Native</b>
-
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 90px; margin-left: 10px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/2048px-Angular_full_color_logo.svg.png" width="25">
     <b style="margin-left: 5px">Angular</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 85px; margin-left: 10px">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="15">
     <b style="margin-left: 10px">Node.js</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 100px; margin-left: 10px">
     <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="15">
     <b style="margin-left: 10px">Bootstrap</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">HTML</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">CSS</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">Github</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">Jira</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">Asana</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">Trello</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">ClickUp</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">Figma</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">Adobe XD</b>
-</div>
-
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="25">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/php-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">Photoshop</b>
 </div>
 
