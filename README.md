@@ -2,8 +2,6 @@
 
 ## ¡Hola!, Me llamo Keybrish Zamora.
 
-<hr>
-
 </br>
 
 ### 🖋️ Soy desarrolladora de frontend, me gusta diseñar interfaces tanto para páginas web como para aplicaciones móviles. Me gusta probar nuevas tecnologías que me permitan experimentar con nuevos diseños que sean óptimos y agradables de usar para los usuarios.
@@ -14,7 +12,6 @@
 
 ![](/images/banner.png)
 
-<hr>
 
 </br>
 
@@ -24,13 +21,7 @@
 
 </br>
 
-<hr>
-
-</br>
-
 ## ⚙️ Tecnologías
-
-</br>
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="15">
@@ -67,7 +58,7 @@
     <b style="margin-left: 10px">Trello; </b>
     <img src="https://seeklogo.com/images/C/clickup-symbol-logo-BB24230BBB-seeklogo.com.png" width="15">
     <b style="margin-left: 10px">ClickUp; </b>
-    <img src="https://s3-alpha.figma.com/hub/file/4495150327/7de456a8-1da6-4858-b0b5-0308d42904e7-cover.png" width="15">
+    <img src="image.png" width="15">
     <b style="margin-left: 10px">Figma; </b>
     <img src="https://play-lh.googleusercontent.com/kaox1VteLsWAuNxPxhm8t4llaoyFhxzDjo9g4Hdf92bKdT_Sn6Yrdku6rApuc5ktirw" width="15">
     <b style="margin-left: 10px">Adobe XD; </b>
