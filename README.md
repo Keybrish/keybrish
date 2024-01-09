@@ -32,17 +32,21 @@
 
 </br>
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 80px">
+<div style="display: flex; flex-direction: row;">
+
+<div style="display: flex; flex-direction: row;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="15">
-    <b style="margin-left: 10px">Python</b>
+    <b style="margin-left: 10px fontSize: 80px">Python</b>
 </div>
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 105px; margin-left: 10px">
+<div style="display: flex; flex-direction: row;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="15">
     <b style="margin-left: 10px">JavaScript</b>
 </div>
 
-<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 105px; margin-left: 10px">
+</div>
+
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 105px; margin-left: 10px;">
     <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" width="15">
     <b style="margin-left: 10px">TypeScript</b>
 </div>
