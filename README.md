@@ -34,7 +34,8 @@
 
 <div style="display: flex; flex-direction: row;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="15">
-    <b style="margin-left: 10px fontSize: 80px">Python</b>
+    <b>Python |</b>
+    <b> </b>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png" width="15">
     <b style="margin-left: 10px">JavaScript</b>
 </div>
