@@ -47,7 +47,7 @@
     <b style="margin-left: 10px">React</b>
     <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 10px">React Native</b>
-    <img src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" width="15">
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-png-transparent.png" width="15">
     <b style="margin-left: 5px">Angular</b>
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" width="15">
     <b style="margin-left: 10px">Node.js</b>
