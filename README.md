@@ -78,15 +78,13 @@
 
 </br>
 
-## 📊 Estadísticas
+## 📊 Estadísticas & lenguajes
 
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=keybrish&show_icons=true&theme=dark)
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=keybrish&show_icons=true&theme=dark" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=keybrish&theme=dark" height="200" />
+</div>
 
-</br>
-
-## ✒️ Lenguajes
-
-![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=keybrish&theme=dark)
 
 
 <!--
