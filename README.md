@@ -28,11 +28,9 @@
 
 </br>
 
-## ⚙️ Tecnologias
+## ⚙️ Tecnologías
 
 </br>
-
-<div style="display: flex; flex-direction: row;">
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 80px">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" width="15">
@@ -83,8 +81,6 @@
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 100px; margin-left: 10px">
     <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="15">
     <b style="margin-left: 10px">Bootstrap</b>
-</div>
-
 </div>
 
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; text-align: center; background-color: #3495d9; border-radius: 8px; padding: 3px; width: 70px; margin-left: 10px">
